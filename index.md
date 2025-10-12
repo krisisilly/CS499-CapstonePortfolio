@@ -3,8 +3,6 @@ layout: default
 title: "Kris Marchevka - CS499 ePortfolio"
 ---
 
-# Kris Marchevka - CS499 ePortfolio
-
 ## Professional Self-Assessment
 
 Throughout my Bachelor of Science in Computer Science program at Southern New Hampshire University, I have developed a broad foundation in software design, algorithms, and database development while strengthening my ability to think critically and solve problems through technology. Completing my capstone has allowed me to bring these skills together into a cohesive professional portfolio that reflects both my academic growth and my work experience in manufacturing and automation at Hypertherm.
