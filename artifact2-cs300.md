@@ -25,11 +25,11 @@ The original program (`Enhance2_ProjectTwo_original.cpp`) implemented a basic ad
 
 ### Enhanced Artifact
 The enhanced version (`KM_Enhancement2.cpp`) introduces:
-- **Improved data structures** using STL `vector` and `map` containers for efficiency  
-- **QuickSort** and **binary search** algorithms to optimize performance  
-- **Benchmarking** to measure algorithm execution times  
-- **Refactored design** for modularity and readability  
-- **Empirical evidence** of performance improvements through testing
+- Improved data structures using STL `vector` and `map` containers for efficiency  
+- QuickSort and binary search algorithms to optimize performance  
+- Benchmarking to measure algorithm execution times  
+- Refactored design for modularity and readability  
+- Empirical evidence of performance improvements through testing
 
 [View Enhanced Source Code](./KM_Enhancement2.cpp)  
 [View Benchmarking Screenshot](./benchmarking_search_time.jpg)  
@@ -42,7 +42,7 @@ The enhanced version (`KM_Enhancement2.cpp`) introduces:
 This enhancement demonstrates my ability to optimize algorithmic efficiency using proper data structures and performance benchmarking.  
 I evaluated time complexity and used algorithmic design to enhance both runtime and maintainability.  
 
-The refactoring process reinforced my understanding of **algorithmic scalability**, **computational complexity**, and the value of **empirical testing** in validating design decisions.
+The refactoring process reinforced my understanding of algorithmic scalability, computational complexity, and the value of empirical testing in validating design decisions.
 
 Key accomplishments include:
 - Implementing and benchmarking advanced algorithms  
