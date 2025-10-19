@@ -52,6 +52,6 @@ Key accomplishments include:
 ---
 
 ### Course Outcomes Demonstrated
-- **Design and evaluate computing solutions** using algorithmic principles and data structure best practices.  
-- **Apply analytical reasoning** to assess performance and trade-offs between different algorithms.  
-- **Develop professional-quality code** that is efficient, readable, and well-documented.
+- Design and evaluate computing solutions using algorithmic principles and data structure best practices.  
+- Apply analytical reasoning to assess performance and trade-offs between different algorithms.  
+- Develop professional-quality code that is efficient, readable, and well-documented.
