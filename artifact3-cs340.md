@@ -24,11 +24,11 @@ The original program (`animal_shelter_original.py`) provided basic Create, Read,
 
 ### Enhanced Artifact
 The enhanced version (`animal_shelter.py`) introduces:
-- **MongoDB indexing** for faster database queries  
-- **Environment variable configuration** for secure connection credentials  
-- **Refactored CRUD methods** with error handling and cleaner modularization  
-- **Optimized Flask integration** for improved client/server interaction  
-- **Improved readability and maintainability** following Pythonic best practices  
+- MongoDB indexing for faster database queries  
+- Environment variable configuration for secure connection credentials  
+- Refactored CRUD methods with error handling and cleaner modularization  
+- Optimized Flask integration for improved client/server interaction  
+- Improved readability and maintainability following Pythonic best practices  
 
 [View Enhanced Source Code](./animal_shelter.py)  
 [View Proof Screenshot](./KM_Enhancement3_Proof.png)  
@@ -37,10 +37,10 @@ The enhanced version (`animal_shelter.py`) introduces:
 ---
 
 ### Reflection
-This enhancement demonstrates my ability to **design and improve database-driven applications** that integrate front-end and back-end systems securely.  
+This enhancement demonstrates my ability to design and improve database-driven applications that integrate front-end and back-end systems securely.  
 Through this work, I implemented advanced MongoDB concepts such as indexing, optimized query patterns, and proper error handling.  
 
-I also applied **security-conscious development practices**, replacing hard-coded credentials with environment variables and ensuring robust, modular Flask application architecture.
+I also applied security-conscious development practices, replacing hard-coded credentials with environment variables and ensuring robust, modular Flask application architecture.
 
 Key accomplishments include:
 - Implementing secure database connections and best practices for data privacy  
@@ -50,6 +50,6 @@ Key accomplishments include:
 ---
 
 ### Course Outcomes Demonstrated
-- **Design and evaluate computing solutions** leveraging databases and client/server frameworks.  
-- **Employ secure and efficient database management techniques** using modern frameworks.  
-- **Develop professional-quality full-stack applications** that demonstrate integrated problem-solving and security awareness.
+- Design and evaluate computing solutions leveraging databases and client/server frameworks.  
+- Employ secure and efficient database management techniques using modern frameworks.  
+- Develop professional full-stack applications that demonstrate integrated problem solving and security awareness.
