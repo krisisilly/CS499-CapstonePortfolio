@@ -18,7 +18,7 @@ The goal of this enhancement was to modernize and improve the logic, improve mai
 ### Original Artifact
 The original program (`Enhancement1_ORIGINAL_KM_M5_Excryption.cpp`) implemented a basic encryption/decryption function with minimal error handling and no secure key derivation.
 
-➡️ [View Original Source Code](./Enhancement1_ORIGINAL_KM_M5_Excryption.cpp)
+[View Original Source Code](./Enhancement1_ORIGINAL_KM_M5_Excryption.cpp)
 
 ---
 
@@ -29,9 +29,9 @@ The enhanced version (`Enhancement1_KM_M5_Encryption.cpp`) introduces:
 - **Exception handling and input validation**  
 - **In-code documentation and SEI CERT C++ compliance**
 
-➡️ [View Enhanced Source Code](./Enhancement1_KM_M5_Encryption.cpp)  
-🖼️ [View Verification Screenshot](./Verification1.jpg)  
-📄 [Download Narrative (.docx)](./KM_Milestone2_Narrative.docx)
+[View Enhanced Source Code](./Enhancement1_KM_M5_Encryption.cpp)  
+[View Verification Screenshot](./Verification1.jpg)  
+[Download Narrative (.docx)](./KM_Milestone2_Narrative.docx)
 
 ---
 
