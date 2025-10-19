@@ -9,7 +9,7 @@ Throughout my Bachelor of Science in Computer Science program at Southern New Ha
 
 Collaboration and communication have been key to my success in both academic and professional settings. Through team projects and cross-departmental work, I have learned to document and communicate technical concepts clearly for diverse audiences, ensuring shared understanding and effective decision-making. My experience in software engineering and secure coding (CS-405) strengthened my awareness of security-first design principles and defensive programming. The algorithms and data structures enhancement (CS-300) reinforced the importance of efficiency and scalability in problem solving, while my database enhancement (CS-340) demonstrated how to manage, validate, and secure data within full-stack systems.
 
-Together, these projects highlight my ability to design and implement reliable, secure, and maintainable software solutions that deliver value. This portfolio represents my readiness to continue advancing professionally—building upon a strong technical foundation, a security mindset, and a passion for continuous improvement.
+Together, these projects highlight my ability to design and implement reliable, secure, and maintainable software solutions that deliver value. This portfolio represents my readiness to continue advancing professionally, all the while building upon a strong technical foundation, a security mindset, and a passion for continuous improvement.
 
 ---
 
